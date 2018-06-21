@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: /liuxiaopiao/python-http-demo
-  tag: 
+  tag: 0.0.2
   pullPolicy: IfNotPresent
 service:
   name: python-http-demo
